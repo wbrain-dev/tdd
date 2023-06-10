@@ -1,0 +1,14 @@
+-cp ./src
+-cp ./src-test
+
+-lib utest
+-lib anonstruct
+-lib apirock
+-lib crapp-kit
+-lib datetime
+-lib util-kit
+-lib hxnodejs
+
+--main tdd.test.TestExercise1
+
+--js ./build/test/tdd-1.js

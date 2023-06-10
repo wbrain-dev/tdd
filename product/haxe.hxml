@@ -1,0 +1,10 @@
+-cp ./src
+-cp ./src-test
+
+-lib utest
+-lib anonstruct
+-lib apirock
+-lib crapp-kit
+-lib datetime
+-lib util-kit
+-lib hxnodejs
