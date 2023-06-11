@@ -8,3 +8,5 @@
 -lib datetime
 -lib util-kit
 -lib hxnodejs
+
+--js ./build/js.js
