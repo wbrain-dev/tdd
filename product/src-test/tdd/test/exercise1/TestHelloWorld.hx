@@ -1,4 +1,4 @@
-package tdd.test.hello;
+package tdd.test.exercise1;
 
 import tdd.exercise1.HelloWorld;
 import utest.Assert;

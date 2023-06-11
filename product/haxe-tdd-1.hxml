@@ -9,6 +9,6 @@
 -lib util-kit
 -lib hxnodejs
 
---main tdd.test.TestExercise1
+--main tdd.test.exercise1.Exercise1
 
 --js ./build/test/tdd-1.js

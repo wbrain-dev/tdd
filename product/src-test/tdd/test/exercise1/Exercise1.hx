@@ -1,9 +1,8 @@
-package tdd.test;
+package tdd.test.exercise1;
 
-import tdd.test.hello.TestHelloWorld;
 import utest.UTest;
 
-class TestExercise1 {
+class Exercise1 {
     
     static public function main() {
         UTest.run([
